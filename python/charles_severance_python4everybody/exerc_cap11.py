@@ -1,0 +1,1 @@
+# Regular expressions - biblioteca especializada em busca e extração de dados de arquivos
